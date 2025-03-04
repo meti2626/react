@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import AnotherComponent from './AnotherComponent';
 import NameList from './NameList';
 
 const App = () => (
